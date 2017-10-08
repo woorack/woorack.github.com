@@ -24,8 +24,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <euichul10@gmail.com>
+  name:              Euicheol Jeong
+  email:             euichul10@gmail.com
 
 # Fallback image and color
 image:               /woorack/assets/img/nap.jpg
